@@ -18,8 +18,8 @@ local ScreenGui = Instance.new("ScreenGui", game.CoreGui)
 ScreenGui.Name = "AutoCollectGUI"
 
 local Frame = Instance.new("Frame", ScreenGui)
-Frame.Size = UDim2.new(0, 260, 0, 160)
-Frame.Position = UDim2.new(0.05, 0, 0.25, 0)
+Frame.Size = UDim2.new(0, 260, 0, 190)
+Frame.Position = UDim2.new(0.05, 0, 0.45, 0)
 Frame.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
 Frame.BorderSizePixel = 0
 Frame.Active = true
